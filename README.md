@@ -1,5 +1,5 @@
 # ABPanicButton #
-Panic button for my grandmother to let us know there is a medical issue if she's not able to get to her phone or is not able to use it.
+Panic button for my grandmother to let the family know if there is a medical issue when she's not able to get to her phone or is not able to use it.
 
 
 
